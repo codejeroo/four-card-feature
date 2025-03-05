@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/codejeroo/four-card-feature]
-- Live Site URL: [https://codejeroo.github.io/four-card-feature/]
+- Solution URL: [Solution](https://github.com/codejeroo/four-card-feature)
+- Live Site URL: [Live Site](https://codejeroo.github.io/four-card-feature/)
 
 
 ### Built with
