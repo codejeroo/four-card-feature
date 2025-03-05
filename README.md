@@ -49,7 +49,4 @@ I'll put in more effort to learn and improve my skills in using CSS Grid.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Frontend Mentor - [@ycodejeroo](https://www.frontendmentor.io/profile/codejeroo)
